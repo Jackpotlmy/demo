@@ -11,7 +11,7 @@ def print_hi(name):
 
 # 按间距中的绿色按钮以运行脚本。
 if __name__ == '__main__':
-    str = "hello world"
+    str = "hahaha"
     print_hi(str)
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
